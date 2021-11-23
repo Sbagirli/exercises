@@ -34,6 +34,6 @@ switch (num) {
         console.log('Pravda');
         break;
     default:
-        console.log('Ne v etot raz');
+        console.log('Ne v etott raz');
         break;
 }
